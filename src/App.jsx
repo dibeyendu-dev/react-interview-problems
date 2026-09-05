@@ -1,11 +1,11 @@
-import Counter from "./problems/01-counter/Counter";
+import Password from "./problems/02-show-hide-password/Password";
 
 function App() {
   return (
     <div>
       <h1>React Interview Problems</h1>
 
-      <Counter />
+      <Password />
     </div>
   );
 }
