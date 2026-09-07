@@ -1,12 +1,11 @@
-import DarkMode from "./problems/03-dark-light-mode/DarkMode";
-import Password from "./problems/03-dark-light-mode/DarkMode";
+import CharacterCounter from "./problems/04-character-counter/CharacterCounter";
 
 function App() {
   return (
     <div>
       <h1>React Interview Problems</h1>
 
-      <DarkMode />
+      <CharacterCounter />
     </div>
   );
 }
